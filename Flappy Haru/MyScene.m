@@ -24,7 +24,7 @@ typedef NS_OPTIONS(int, EntityCategory) {
 };
 
 // Gameplay - bird movement
-static const float kGravity = -1500.0;
+static const float kGravity = -500.0;
 static const float kImpulse = 400.0;
 static const float kAngularVelocity = 1000;
 
